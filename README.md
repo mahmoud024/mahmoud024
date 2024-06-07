@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mahmoud atia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud atia" height="30" width="40" /></a>
-<a href="https://fb.com/محمود احمد عطية" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="محمود احمد عطية" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/m-atia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud atia" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mahmoud24122001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="محمود احمد عطية" height="30" width="40" /></a>
 <a href="https://discord.gg/800659747425615913" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="800659747425615913" height="30" width="40" /></a>
 </p>
 

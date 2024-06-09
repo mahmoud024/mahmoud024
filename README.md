@@ -1,14 +1,8 @@
 ![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
 <h1 align="center">Hi 👋, I'm Mahmoud Atia</h1>
-<h5 align="center">Computer System Engineer</h4>
+<h5 align="center">Frontend Developer</h4>
 
 #
-<h3 align="center">
-  A passionate frontend developer from 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/mahmoud024/mahmoud024/assets/83675107/54f4d525-dc19-4345-a79e-c0ed96baed2a" alt="Palestine" width="130" height="80" style="vertical-align: middle;"/>
-  </a>
-</h3>
 
 
 

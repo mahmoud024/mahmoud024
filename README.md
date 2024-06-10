@@ -6,10 +6,9 @@
 
 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=OsamaQutait&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff" alt="Coding" width="400" align="right" />
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-#
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud024&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud024" /> </p>
 

@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **react , Angular , JavaScipt**
+- 💬 Ask me about **React , Angular , JavaScipt**
 
 - 📫 How to reach me **mahmoudatia024@gmail.com**
 
